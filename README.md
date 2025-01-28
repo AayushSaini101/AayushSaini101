@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aayushsaini101" alt="aayushsaini101" /></a> </p>
 
-- 📝 I regularly write articles on [https://auth.geeksforgeeks.org/user/zack_aayush/articles](https://auth.geeksforgeeks.org/user/zack_aayush/articles)
 
 - 📫 How to reach me **kumaraayush9810@gmail.com**
 
