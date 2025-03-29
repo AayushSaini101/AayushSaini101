@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aayush</h1>
-<h3 align="center">Software Engineer at Red Hat  | Open Source Maintainer </h3>
+<h3 align="center">Software Engineer at Red Hat | Open Source Maintainer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushsaini101&label=Profile%20views&color=0e75b6&style=flat" alt="aayushsaini101" /> </p>
 
@@ -14,9 +14,8 @@
   - Completed **AsyncAPI Mentorship Program 2024** for **AsyncAPI CLI**.
   - Enhanced **AsyncAPI Generator** ([2.4M+ Downloads](https://github.com/asyncapi/generator)) to **support private template pulls**.
   - Developed **Git-Vote Bot** for [AsyncAPI Organization](https://github.com/asyncapi).
-  - Created a **workflow to track voting history**.
-  - Built a new **CLI command to create AsyncAPI templates**.
-  - Created two CLI commands from scratch:
+  - Created a **workflow to track voting history across the Asyncapi Organisation**.
+  - Built Multiple new **CLI command to create AsyncAPI templates**.:
     - **Pull private templates** from the [AsyncAPI registry](https://github.com/asyncapi/cli).
     - **Score command** to evaluate AsyncAPI document quality.
 - 🛠 **Jenkins Contributions:**
