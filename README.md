@@ -1,5 +1,7 @@
+> **Always a long-life learner and forever an apprentice.**
+
 <h1 align="center">Hi 👋, I'm Aayush</h1>
-<h3 align="center">Software Engineer at Red Hat  | Open Source Developer </h3>
+<h3 align="center">Software Engineer at Red Hat  | Open Source Maintainer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushsaini101&label=Profile%20views&color=0e75b6&style=flat" alt="aayushsaini101" /> </p>
 
