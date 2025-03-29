@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aayush</h1>
-<h3 align="center">Software Engineer at Red Hat</h3>
+<h3 align="center">Software Engineer at Red Hat | Platform Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushsaini101&label=Profile%20views&color=0e75b6&style=flat" alt="aayushsaini101" /> </p>
 
@@ -8,10 +8,21 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **AsyncAPI CLI Autocomplete**
-- 🌱 I’m currently learning **LLMs, Vector Databases & System Design**
-- 💬 Ask me about **Open Source, Automation, and Platform Engineering**
+- 💻 Open-source enthusiast, currently contributing to **Jenkins**, **AsyncAPI**, and **various automation tools**.
+- 🔧 Maintainer of the **Run-Condition Plugin** for Jenkins.
+- 🛠 Implemented new probes in the **Jenkins Plugin Health Tool**, enhancing plugin security and stability.
+- 🚀 Added **autocomplete support** to the **AsyncAPI CLI**, making developer interactions seamless.
+- 🌱 Learning about **LLMs, Vector Databases, and System Design** to enhance platform automation.
+- 🎤 Speaker at **DevConf.IN 2025**, presenting on **Open Source Contributions & AI Applications**.
+- 💬 Ask me about **Open Source, Automation, and Platform Engineering**.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aayush-saini-0a25931b1/) | [Topmate](https://topmate.io/aayush_saini)
+
+---
+
+### 🎓 Mentorship & Community Engagement
+- 🤝 Mentoring developers in **open-source contributions**, helping them navigate projects like Jenkins and AsyncAPI.
+- 🎯 Guiding aspiring engineers in **technical interviews, DSA, and system design**.
+- 🌍 Actively involved in **tech communities**, sharing knowledge through talks, blogs, and interactive sessions.
 
 ---
 
