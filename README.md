@@ -1,5 +1,3 @@
-> **Always a long-life learner and forever an apprentice.**
-
 <h1 align="center">Hi 👋, I'm Aayush</h1>
 <h3 align="center">Software Engineer at Red Hat  | Open Source Maintainer </h3>
 
