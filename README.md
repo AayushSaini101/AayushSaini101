@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aayush</h1>
-<h3 align="center">Part Time Software Engineer, full time Open Source Contributor :)</h3>
+<h3 align="center">Part time Software Engineer, full time Open Source Contributor :)</h3>
  <h3 align="center">📖 "Lifelong learner, forever an apprentice." 📖</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushsaini101&label=Profile%20views&color=0e75b6&style=flat" alt="aayushsaini101" /> </p>
 
