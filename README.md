@@ -9,7 +9,7 @@
 - 💻 **Committer & TSC Member** at **AsyncAPI Initiative**.
 - 🔧 **Maintainer of the Run-Condition Plugin** for **Jenkins Organization**.
 - 🏆 **AsyncAPI Contributions:**
-  - Completed **AsyncAPI Mentorship Program 2024** for **AsyncAPI CLI**.
+  - Completed **AsyncAPI Mentorship Program 2024** for **AsyncAPI CLI** and promoted to **Maintainer**.
   - Enhanced **AsyncAPI Generator** ([2.4M+ Downloads](https://github.com/asyncapi/generator)) to **support private template pulls**.
   - Developed **Git-Vote Bot** for [AsyncAPI Organization](https://github.com/asyncapi).
   - Created a **workflow to track voting history across the Asyncapi Organisation**.
@@ -17,11 +17,11 @@
     - **Pull private templates** from the [AsyncAPI registry](https://github.com/asyncapi/cli).
     - **Score command** to evaluate AsyncAPI document quality.
 - 🛠 **Jenkins Contributions:**
-  - Implemented a new **probe in Plugin Health Tool** to check for **Release Drafter**.
+  - Implemented a new **probe in Plugin Health Tool** to check for **Release Drafter** is present in **1800+ Jenkins Plugin**.
   - Enhanced plugin health reports to **display security issue links**.
   - Created a **probe to check build status** on the main branch of a plugin.
   - GitHub: [Plugin Health Scoring](https://github.com/jenkins-infra/plugin-health-scoring)
-- 🌍 **GSoC Mentor**:
+- 🌍 **GSoC Mentor 2025**:
   - Mentored students in **Google Summer of Code (GSoC)**, guiding them in **open-source development and project contributions**.
 - 🌱 Learning about **LLMs, Vector Databases, and System Design** to enhance platform automation.
 - 🎤 Speaker at **DevConf.IN 2025**, presenting on **Open Source Contributions & AI Applications**.
@@ -32,9 +32,10 @@
 
 <h3 align="left">🛠 Tech Stack:</h3>
 <p align="left"> 
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.ansible.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/> </a> 
+  <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   <a href="https://www.jenkins.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> </a> 
   <a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a> 
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> 
@@ -49,10 +50,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushsaini101&" alt="aayushsaini101" /></p>
 
 ---
-
-<h3 align="left">📫 Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/aayush-saini-0a25931b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://github.com/AayushSaini9" target="blank"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="30" width="40" /></a>
-<a href="https://topmate.io/aayush_saini" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="Topmate" height="30" width="40" /></a>
-</p>
