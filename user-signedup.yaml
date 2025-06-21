@@ -1,0 +1,34 @@
+components:
+  messages:
+    UserSignedUp:
+      name: UserSignedUp
+      title: User Signed Up Event
+      summary: Event emitted when a new user registers.
+      contentType: application/json
+      payload:
+        type: object
+        required:
+          - id
+          - name
+          - email
+          - signupDate
+        properties:
+          id:
+            type: string
+            format: uuid
+            description: Unique identifier for the user.
+          name:
+            type: string
+            description: Full name of the user.
+          email:
+            type: string
+            format: email
+            description: Email address of the user.
+          signupDate:
+            type: string
+            format: date-time
+            description: Timestamp when the user signed up.
+          referrer:
+            type: string
+            nullable: true
+            description: Referral code or source, if any.
