@@ -1,29 +1,19 @@
-{
-  "id": "https://example.com/schemas/user-signedup",
-  "$schema": "http://json-schema.org/draft-04/schema#",
-  "title": "UserSignedUp",
-  "description": "Schema for a user signup event",
-  "type": "object",
-  "required": ["displayName", "email"],
-  "properties": {
-    "displayName": {
-      "type": "string",
-      "description": "Name of the user"
-    },
-    "email": {
-      "type": "string",
-      "format": "email",
-      "description": "Email address of the user"
-    },
-    "signupDate": {
-      "type": "string",
-      "format": "date-time",
-      "description": "ISO timestamp when the user signed up"
-    },
-    "referrer": {
-      "type": ["string", "null"],
-      "description": "Referral source, if any"
-    }
-  },
-  "additionalProperties": false
-}
+components:
+  messages:
+    UserSignup:
+      name: UserSignedUp
+      summary: A user has signed up
+      contentType: application/json
+      payload:
+        type: object
+        required:
+          - displayName
+          - email
+        properties:
+          displayName:
+            type: string
+            description: Name of the user
+          email:
+            type: string
+            format: email
+            description: Email of the user
