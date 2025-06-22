@@ -1,6 +1,6 @@
-name: UserSignedUp
 summary: A user has signed up
 contentType: application/json
+messageId: UserSignedUp
 payload:
   type: object
   required:
